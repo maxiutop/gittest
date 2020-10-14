@@ -10,4 +10,8 @@ public class GittestApplication {
         SpringApplication.run(GittestApplication.class, args);
     }
 
+    public void test(){
+
+    }
+
 }
